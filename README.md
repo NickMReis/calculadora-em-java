@@ -13,3 +13,5 @@ O programa é semelhante às calculadoras que temos em nossos celulares, com a p
 
 ## Tecnologia Utilizada
 -  Java
+
+![Imagem da Calculadora](assets-calculadora/img-calculadora.png)

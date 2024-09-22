@@ -15,5 +15,6 @@ O programa é semelhante às calculadoras que temos em nossos celulares, com a p
 -  Java
 
 
-### Segue abaixo está o resultado final do programa Calculadora 
+
+### Segue abaixo a foto mostrando como é o programa Calculadora! 
 ![Imagem da Calculadora](assets-calculadora/img-calculadora.png)
